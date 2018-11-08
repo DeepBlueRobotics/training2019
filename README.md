@@ -2,4 +2,10 @@
 A simple repo for git/github training
 
 Here's some text I'm trying to get added.
-Lilly He is fantastic
+
+Lilly He 
+
+David :) :) :)
+
+Edmund is cool hi
+
